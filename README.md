@@ -9,3 +9,8 @@
 ![image](https://github.com/15529343201/JAVA/blob/master/screenshots/8.PNG)
 ![image](https://github.com/15529343201/JAVA/blob/master/screenshots/9.PNG)
 ![image](https://github.com/15529343201/JAVA/blob/master/screenshots/10.PNG)
+## **先序中序建立二叉树**
+![image](https://github.com/15529343201/JAVA/blob/master/screenshots/1.PNG)
+![image](https://github.com/15529343201/JAVA/blob/master/screenshots/2.PNG)
+![image](https://github.com/15529343201/JAVA/blob/master/screenshots/3.PNG)
+![image](https://github.com/15529343201/JAVA/blob/master/screenshots/4.PNG)
