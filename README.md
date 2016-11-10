@@ -1,6 +1,9 @@
 ### Data Structure and Algorithm
+## **约瑟夫环**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/1.PNG)
+## **约瑟夫排列问题一**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/2.PNG)
+## **约瑟夫排列问题二**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/3.PNG)
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/4.PNG)
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/5.PNG)
