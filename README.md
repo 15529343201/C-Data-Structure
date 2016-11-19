@@ -17,7 +17,9 @@
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/8.PNG)
 ## **一元多项式求导**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/9.PNG)
+## **先序扩展序列建立二叉树**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/10.PNG)
+## **二叉树的递归和非递归遍历**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/11.PNG)
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/12.PNG)
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/13.PNG)
