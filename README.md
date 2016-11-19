@@ -23,3 +23,27 @@
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/11.PNG)
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/12.PNG)
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/13.PNG)
+## **二叉树的创建和遍历**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/14.PNG)
+## **二叉树结点个数**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/15.PNG)
+## **非递归中序和先序**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/16.PNG)
+## **非递归后序遍历**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/17.PNG)
+## **层次遍历**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/18.PNG)
+## **先序中序建立二叉树**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/19.PNG)
+## **中序后序建立二叉树**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/20.PNG)
+## **节点及其所在层次**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/21.PNG)
+## **某层叶子节点个数**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/22.PNG)
+## **交换左右子树**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/23.PNG)
+## **根结点到叶子节点路径**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/24.PNG)
+## **最近共同祖先**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/25.PNG)
