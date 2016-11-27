@@ -47,3 +47,5 @@
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/24.PNG)
 ## **最近共同祖先**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/25.PNG)
+## **给定权值,哈弗曼编码，译码**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/26.PNG)
