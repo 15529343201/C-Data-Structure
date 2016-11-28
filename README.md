@@ -1,4 +1,5 @@
 ### Data Structure and Algorithm
+#**树和二叉树**
 ## **约瑟夫环**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/1.PNG)
 ## **约瑟夫排列问题一**
@@ -49,3 +50,14 @@
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/25.PNG)
 ## **给定权值,哈弗曼编码，译码**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/26.PNG)
+# **图**
+## **邻接矩阵**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/27.PNG)
+## **邻接表**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/28.PNG)
+## **十字链表**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/29.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/30.PNG)
+## **邻接多重表**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/31.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/32.PNG)
