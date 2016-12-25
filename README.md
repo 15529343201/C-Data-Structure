@@ -62,16 +62,16 @@
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/31.PNG)
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/32.PNG)
 ## **图的创建和遍历**
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/33.PNG)
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/34.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/33.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/34.PNG)
 ## **求解连通分量个数**
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/35.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/35.PNG)
 ## **网络寻路**
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/36.PNG)
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/37.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/36.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/37.PNG)
 ## **大臣的旅费**
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/38.PNG)
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/39.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/38.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/39.PNG)
 ## **城市建设**
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/40.PNG)
-[image](https://github.com/15529343201/C-Data-Structure/blob/master/image/41.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/40.PNG)
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/41.PNG)
