@@ -50,6 +50,8 @@
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/25.PNG)
 ## **给定权值,哈弗曼编码，译码**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/26.PNG)
+## **给定报文,哈夫曼编码,译码**
+![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/42.PNG)
 # **图**
 ## **邻接矩阵**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/27.PNG)
