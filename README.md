@@ -1,5 +1,5 @@
 ### Data Structure and Algorithm
-#**树和二叉树**
+# **树和二叉树**
 ## **约瑟夫环**
 ![image](https://github.com/15529343201/C-Data-Structure/blob/master/image/1.PNG)
 ## **约瑟夫排列问题一**
