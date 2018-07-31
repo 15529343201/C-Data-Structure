@@ -5,6 +5,8 @@
 	终止条件:f(L,x)=不做任何事情;               若L为空表
 	递归主体:f(L,x)=删除*L结点;f(L->next,x);    若L->data==x 
 			 f(L,x)=f(L->next,x);               其他情况
+算法需要借助一个递归工作栈,深度为O(n),时间复杂度为O(n)。有读者认为直接free掉p结点
+会造成断链,实际上因为L为引用,是直接对原链表的操作,因此不会断链。 
 */ 
 #include<stdio.h>
 #include<stdlib.h>
